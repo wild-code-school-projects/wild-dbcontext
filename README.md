@@ -20,3 +20,6 @@ Mr. Richard owns two shell companies and has the following three savings account
 - A `SavingCalculator` class performs the calculations on the total savings of Mr. Richard.
 - Each account and its associated savings rate must be displayed in the console.
 
+
+
+![image](https://image.noelshack.com/fichiers/2024/21/6/1716642690-screenshot-2024-05-25-150935.png)
